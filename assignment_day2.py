@@ -65,4 +65,5 @@ Traditional ML algorithms are effective for structured data and smaller datasets
 st.markdown("""
 ---
 *python -m streamlit run D:/BNMIT/4thSem/Internship-2/assignment2.py*
+*https://assignment-day2.streamlit.app/*
 """)
